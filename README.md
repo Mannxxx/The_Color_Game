@@ -9,4 +9,3 @@ The game is not mobile responsive for the moment.
 
 Have a Good Game and enjoy !
 
-Game link : https://natdenice.github.io/The_Color_Game_Project/
