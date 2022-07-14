@@ -8,4 +8,3 @@ It was really a nice training for advanced DOM Manipulation in Vanilla JS.
 The game is not mobile responsive for the moment.
 
 Have a Good Game and enjoy !
-
